@@ -18,7 +18,7 @@ Projeto simples para solucionar labirintos de forma visual. Criado originalmente
 
 ## 📌 Autoria
 
-© 2011 Diego Silveira 
+© 2011 Diego Silveira | 
 Projeto desenvolvido por [dcsilveira](https://github.com/dcsilveira)  
 
 ---
